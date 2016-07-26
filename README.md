@@ -1,4 +1,4 @@
-# File Explorer -> electron + edge
+# File Explorer -> electron + edge : electron_edge
 
 A simple file explorer implemented with node.js modules, you can navigate through
 folders and open files.
@@ -11,8 +11,5 @@ folders and open files.
 * [util module](http://nodejs.org/api/util.html)
 * [child_process module](http://nodejs.org/api/child_process.html)
 
-## Screenshot
-
-![screenshot](/file-explorer/screenshot/screenshot.png)
 =======
 # 
